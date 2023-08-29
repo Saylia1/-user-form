@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://www.jonesaroundtheworld.com/wp-content/uploads/2015/06/DSC_0587.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+text-transform: capitalize;
+color:white;
+text-shadow:rgb(2,24,2) 1px 1px 2px;
+}
+
+p{
+    text-align: center;
+}
+
+ .name{
+    display: flex;
+ }
+ .name label{
+
+ }
+ .email {
+    margin-top: 1%;
+ }
+
+
+ .name input{
+    width: 30%;
+ }
+
+.user-form{
+    background-color: rgb(147,177,177);
+    padding: 3%;
+    margin: 5%;
+}
+
