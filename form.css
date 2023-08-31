@@ -9,7 +9,7 @@ body{
 h1{
     text-align: center;
 text-transform: capitalize;
-color:white;
+color:greenyellow;
 text-shadow:rgb(2,24,2) 1px 1px 2px;
 }
 
@@ -20,14 +20,14 @@ p{
  .name{
     display: flex;
  }
- .name label{
+ /* .name label{
 
- }
+ } */
  .email {
     margin-top: 1%;
  }
 
-.form-group input,.form-group select{
+.form-group input,.form-group select,textarea{
 width: 100%;
 }
  /* .name input{
