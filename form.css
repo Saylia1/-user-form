@@ -21,6 +21,12 @@ p{
  /* .name label{
 
  } */
+ .first, .last{
+    width: 50%;
+ }
+ #activities label{
+    display: block;
+ }
  .email {
     margin-top: 1%;
  }
